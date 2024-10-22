@@ -21,3 +21,8 @@ footer {
     bottom: 0;
     position: fixed;
   }
+
+table{
+    width: 100%;
+    text-align: center;
+}
